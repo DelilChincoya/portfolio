@@ -29,4 +29,4 @@ Estoy emocionada por transferir mis habilidades analíticas y mi pasión por los
 
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil%20Principal-blue?style=for-the-badge&logo=github)](https://github.com/DelilChincoya) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/delil-chincoya-b668a42a6/)
-[![Correo](https://img.shields.io/badge/Correo-Contáctame-blue?style=for-the-badge&logo=gmail)](mailito:chincoya.delil@gmail.com)
+[![Correo](https://img.shields.io/badge/Correo-Contáctame-blue?style=for-the-badge&logo=gmail)](mailto:chincoya.delil@gmail.com)
