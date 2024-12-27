@@ -2,14 +2,12 @@
 
 1. **[Segmentación de Usuarios de Tarjetas de Crédito](https://github.com/DelilChincoya/Segmentacion_de_clientes)**
 
-<img src="https://github.com/DelilChincoya/Segmentacion_de_clientes/blob/main/Imagenes/Segmentacion_resumen.png" alt="resumen de resultados" style="pointer-events: none;">
-
+   [![resumen de resultados](../Segmentacion_de_clientes/blob/main/Imagenes/Segmentacion_resumen.png)](https://github.com/DelilChincoya/Segmentacion_de_clientes)  
    Segmentación de clientes con base en sus patrones de manejo de tarjetas de crédito.
 
 2. **[Predicción de precios de propiedades](https://github.com/DelilChincoya/Prediccion_de_precios)**  
 
-  <img src="https://github.com/DelilChincoya/Prediccion_de_precios/blob/main/Imagenes/resumen_regresion.png" alt="resumen" style="pointer-events: none;">
-  
+   [![resumen](../Prediccion_de_precios/blob/main/Imagenes/resumen_regresion.png)](https://github.com/DelilChincoya/Prediccion_de_precios)  
    Desarrollo de un modelo predictivo de precios de casas con base en la información de propiedades inmobiliarias.
 
 # Sobre mí
