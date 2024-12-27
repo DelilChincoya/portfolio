@@ -1,4 +1,6 @@
-# Proyectos
+# ¡Bienvenido a mi portafolio!
+
+## Proyectos
 
 1. **[Segmentación de Usuarios de Tarjetas de Crédito](https://github.com/DelilChincoya/Segmentacion_de_clientes)**
 
@@ -10,7 +12,7 @@
    [![resumen](/assets/images/resumen_regresion.png)](https://github.com/DelilChincoya/Prediccion_de_precios)  
    Desarrollo de un modelo predictivo de precios de casas con base en la información de propiedades inmobiliarias.
 
-# Sobre mí
+## Sobre mí
 
 Soy bióloga con un doctorado en Ciencias y una sólida experiencia en  bioinformática. Durante mi trayectoria académica, trabajé con grandes conjuntos de datos genómicos y desarrollé habilidades en programación (Python, Perl y Bash) para el análisis de datos complejos. En los últimos meses, he estado profundizando en herramientas como Pandas, NumPy, SQL y Scikit-learn, y he aplicado estas habilidades en proyectos autodidactas.
 
