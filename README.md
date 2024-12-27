@@ -7,14 +7,14 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado como cientí
 
 1. **[Segmentación de Usuarios de Tarjetas de Crédito](https://github.com/DelilChincoya/Segmentacion_de_clientes)**
 
-   [![resumen de resultados](https://github.com/DelilChincoya/Segmentacion_de_clientes/blob/main/Imagenes/Segmentacion_resumen.png)](https://github.com/DelilChincoya/Segmentacion_de_clientes)  
+   ![resumen de resultados](https://github.com/DelilChincoya/Segmentacion_de_clientes/blob/main/Imagenes/Segmentacion_resumen.png)
    Segmentación de clientes con base en sus patrones de manejo de tarjetas de crédito.
 
    
 
 3. **[Predicción de precios de propiedades](https://github.com/DelilChincoya/Prediccion_de_precios)**  
 
-   [![resumen](https://github.com/DelilChincoya/Prediccion_de_precios/blob/main/Imagenes/resumen_regresion.png)](https://github.com/DelilChincoya/Prediccion_de_precios)  
+   ![resumen](https://github.com/DelilChincoya/Prediccion_de_precios/blob/main/Imagenes/resumen_regresion.png)
    Desarrollo de un modelo predictivo de precios de casas con base en la información de propiedades inmobiliarias.
 
 
