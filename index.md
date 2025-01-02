@@ -1,5 +1,5 @@
 ---
-title: "¡Bienvenido a mi portafolio!"
+title: "¡Bienvenid@ a mi portafolio!"
 description: "Aquí encontrarás algunos de los proyectos de ciencia de datos en los que he trabajado"
 theme: jekyll-theme-cayman
 ---
